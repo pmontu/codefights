@@ -1,3 +1,5 @@
+"""https://codefights.com/challenge/6ujkFoB8xFjupddvP"""
+
 def RobotCar(L):
     edges = {
         "50" : ["30"],
